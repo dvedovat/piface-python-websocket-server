@@ -10,12 +10,12 @@ piface-python-websocket-server
   * $> sudo apt-get install python-simplejson
 
 - PiFace server:
-  * $> git clone https://github.com/adcomp/piface-python-websocket-server.git
+  * $> git clone https://github.com/dvedovat/piface-python-websocket-server
   * $> cd piface-python-websocket-server
   * $> python server.py
 
 - Browser: 
-  * http//[your_raspberrypi_IP]:8888
+  * http://[your_raspberrypi_IP]:8888
 
 - Video:
   * https://www.youtube.com/watch?v=eJpGfqwGr08
